@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------------------
+INSTALLATION et EXECUTION POUR LINUX
+-------------------------------------------------------------------------
+
+
+==== Méthode automatique ====
+
+1.Ouvrir un terminal
+2.Placez-vous dans le dossier MTWorld (contentant src et INSTALL.TXT) grâce à la commande "cd"
+3.Si vous ne pouvez pas executer compile.sh et execute.sh tapez :
+'chmod 755 compile.sh execute.sh'
+4.Pour compiler tapez : 
+'./compile.sh' 
+5.Pour executer tapez : 
+'./execute.sh'
+
+
+==== Méthode manuelle ====
+
+1.Ouvrir un terminal
+2.Placez-vous dans le dossier MTWorld (contentant src et INSTALL.TXT) grâce à la commande "cd"
+3.Pour compiler tapez : 
+'javac -classpath "JOGL/jar/gluegen-rt.jar:JOGL/jar/jogl-all.jar:." -d bin src/**/**/*.java'
+4.Pour executer tapez : 
+'cd bin'
+5.Tapez :
+'java -classpath "../JOGL/jar/gluegen-rt.jar:../JOGL/jar/jogl-all.jar:." "MTWorld.applications.Main"'
