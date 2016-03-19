@@ -6,8 +6,8 @@ Un écosystème artificiel
 Réalisé entièrement en Java et grâce au portage d'OpenGL : JOGL, ce projet propose un logiciel de simulation d'un écosystème avec visualition en 3D. 
 
 Parmis les concepts utilisés ont trouve :
-	- automates cellulaires
-	- création automatique de terrains (Perlin noise)
+	*- automates cellulaires
+	*- création automatique de terrains (Perlin noise)
 	- génération procédurale (L-system)
 	- recherche de chemins (algorithme A*)
 	- programmation génétique
