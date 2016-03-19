@@ -1,6 +1,8 @@
 # MTWorld
 Un écosystème artificiel
 
+![alt tag](https://raw.githubusercontent.com/TanguySoto/MTWorld/blob/master/main_image.png)
+
 ## Résumé
 
 Réalisé entièrement en Java et grâce au portage d'OpenGL : JOGL, ce projet propose un logiciel de simulation d'un écosystème avec visualition en 3D. 
