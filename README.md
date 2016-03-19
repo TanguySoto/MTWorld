@@ -1,7 +1,7 @@
 # MTWorld
 Un écosystème artificiel
 
-![alt tag](https://raw.githubusercontent.com/TanguySoto/MTWorld/blob/master/main_image.png)
+![alt tag](https://github.com/TanguySoto/MTWorld/blob/master/Main_image.png)
 
 ## Résumé
 
