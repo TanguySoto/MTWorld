@@ -14,7 +14,7 @@ Parmis les concepts utilisés ont trouve :
 	- simulation de mouvements de foule
 	- modélisation de comportement
 	
-Grâce à l'interface graphique, l'utilisateur peut modifier à sa gise les paramètres de la simulation et ainsi créer une infinité d'environnement différents.
+Grâce à l'interface graphique, l'utilisateur peut modifier à sa gise les paramètres de la simulation et ainsi créer une infinité d'environnements différents.
 
 Le fichier Flyer.pdf donne un aperçu rapide des fonctionnalités implémentées grâce à ces concepts.
 
