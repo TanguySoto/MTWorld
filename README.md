@@ -18,7 +18,7 @@ This project uses the following concepts :
 	
 Thanks to the interface, user may modify any parameter of the simulation and so create an infinity of different environments.
 
-The Flyer.pdf file gives a quick preview of every feature implemented using above concepts.
+The Flyer.pdf (in french) file gives a quick preview of every feature implemented using above concepts.
 
 ## Installation et running
 
