@@ -20,6 +20,11 @@ Thanks to the interface, user may modify any parameter of the simulation and so 
 
 The Flyer.pdf (in french) file gives a quick preview of every feature implemented using above concepts.
 
-## Installation et running
+## Installation & running
 
 Information about installation and running can be found in INSTALL.txt located at the root of the repository.
+
+## More
+
+## Credits
+
