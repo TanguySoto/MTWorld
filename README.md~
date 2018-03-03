@@ -1,25 +1,30 @@
 # MTWorld
-Un écosystème artificiel
+An artificial ecosystem
 
-![alt tag](https://raw.githubusercontent.com/TanguySoto/MTWorld/blob/master/main_image.png)
+![alt tag](https://github.com/TanguySoto/MTWorld/blob/master/Main_image.png)
 
-## Résumé
+## Summary
 
-Réalisé entièrement en Java et grâce au portage d'OpenGL : JOGL, ce projet propose un logiciel de simulation d'un écosystème avec visualition en 3D. 
+Made entirely with Java and Java OpenGL (JOGL), this project is an ecosystem simulation software with a 3D visualisation. 
 
-Parmis les concepts utilisés ont trouve :
-- automates cellulaires
-- création automatique de terrains (Perlin noise)
-- génération procédurale (L-system)
-- recherche de chemins (algorithme A*)
-- programmation génétique
-- simulation de mouvements de foule
-- modélisation de comportement
+This project uses the following concepts :
+- cellular automata
+- automatic terrain creation (Perlin noise)
+- procedural generation (L-system)
+- pathfinding (A* algorithm)
+- genetic programming
+- boids algorithm
+- behaviour modelisation
 	
-Grâce à l'interface graphique, l'utilisateur peut modifier à sa gise les paramètres de la simulation et ainsi créer une infinité d'environnements différents.
+Thanks to the interface, user may modify any parameter of the simulation and so create an infinity of different environments.
 
-Le fichier Flyer.pdf donne un aperçu rapide des fonctionnalités implémentées grâce à ces concepts.
+The Flyer.pdf (in french) file gives a quick preview of every feature implemented using above concepts.
 
-## Installation et lancement
+## Installation & running
 
-Pour l'installation et le lancement, voir le fichier INSTALL.txt situé à la racine du répertoire.
+Information about installation and running can be found in INSTALL.txt located at the root of the repository.
+
+## More
+
+## Credits
+

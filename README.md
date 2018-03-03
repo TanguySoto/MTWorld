@@ -1,7 +1,7 @@
 # MTWorld
 An artificial ecosystem
 
-![alt tag](https://github.com/TanguySoto/MTWorld/blob/master/Main_image.png)
+![alt tag](https://github.com/TanguySoto/MTWorld/blob/master/screenshots/Main_image.png)
 
 ## Summary
 
