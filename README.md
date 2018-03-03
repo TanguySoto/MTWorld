@@ -22,4 +22,4 @@ The Flyer.pdf (in french) file gives a quick preview of every feature implemente
 
 ## Installation et running
 
-Informations about installation and running can be found in INSTALL.txt located at the root of the repository.
+Information about installation and running can be found in INSTALL.txt located at the root of the repository.
