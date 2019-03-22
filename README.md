@@ -5,7 +5,7 @@ An artificial ecosystem
 
 ## Summary
 
-Made entirely with Java and Java OpenGL (JOGL), this project is an ecosystem simulation software with a 3D visualisation. 
+Made entirely with Java and Java OpenGL (JOGL), this project is an ecosystem simulation software with a 3D visualization. 
 
 This project uses the following concepts :
 - cellular automata
@@ -24,7 +24,7 @@ The Flyer.pdf (in french) file gives a quick preview of every feature implemente
 
 Information about installation and running can be found in INSTALL.txt located at the root of the repository.
 
-## More
-
 ## Credits
+Tanguy SOTO
 
+Malcolm AUFFRAY
