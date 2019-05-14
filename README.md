@@ -28,3 +28,5 @@ Information about installation and running can be found in INSTALL.txt located a
 Tanguy SOTO
 
 Malcolm AUFFRAY
+
+2015
